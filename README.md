@@ -32,7 +32,4 @@ This is a simple FastAPI-based API that predicts salary based on years of experi
 - A modern web browser
 
 ## Author
-[Your Name]
-
-## License
-This project is licensed under [insert your chosen license].
+TINA Djara Olivier
