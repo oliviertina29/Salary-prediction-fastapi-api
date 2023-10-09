@@ -1,13 +1,13 @@
 # Salary-prediction-fastapi-api
 
-![Capture d'écran de la page d'accueil](ind.png)
-*Capture d'écran de la page d'accueil de l'API.*
+![Homepage Screenshot](ind.png)
+*Screenshot of the API homepage.*
 
-![Capture d'écran de la documentation de l'API](docs.png)
-*Capture d'écran de la documentation de l'API.*
+![API Documentation Screenshot](docs.png)
+*Screenshot of the API documentation.*
 
-![Capture d'écran de l'API testée](api_test.png)
-*Capture d'écran de l'API testée.*
+![API Testing Screenshot](api_test.png)
+*Screenshot of the API being tested.*
 
 ## Description
 This is a simple FastAPI-based API that predicts salary based on years of experience using a linear regression model.
